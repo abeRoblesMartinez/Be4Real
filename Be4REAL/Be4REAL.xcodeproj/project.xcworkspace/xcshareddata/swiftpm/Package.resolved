@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "afnetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AFNetworking/AFNetworking.git",
+      "state" : {
+        "revision" : "ffae2391ab0c29dc88eb0a58d2f5b2c2c27cadbf",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "alamofireimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/AlamofireImage.git",
+      "state" : {
+        "revision" : "98cbb00ce0ec5fc8e52a5b50a6bfc08d3e5aee10",
+        "version" : "4.2.0"
+      }
+    },
+    {
+      "identity" : "bolts-objc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Bolts-ObjC.git",
+      "state" : {
+        "revision" : "1eee96ad3bcfc8964c0a5815ce94f491eb6ac8c2",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "facebook-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/facebook-ios-sdk.git",
+      "state" : {
+        "revision" : "7fd8a930a5b2c940a22efafe0e214ed0df671312",
+        "version" : "15.1.0"
+      }
+    },
+    {
+      "identity" : "parse-sdk-ios-osx",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-SDK-iOS-OSX",
+      "state" : {
+        "revision" : "0bfcf4200906a990c249beffe28f63697feee125",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "parse-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-Swift.git",
+      "state" : {
+        "revision" : "dc7666f774755be333f48f25c4d8bead0a1a6877",
+        "version" : "4.14.2"
+      }
+    }
+  ],
+  "version" : 2
+}
